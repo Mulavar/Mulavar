@@ -17,4 +17,4 @@ I'm focusing on flink and middleware, currently working at Meituan. In addition 
 
 Reaching me directly via [Email](mailto:lam167@apache.org) is welcomed 🤟🤟🤟
 
-![Mulavar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mulavar&include_all_commits=true&count_private=true&theme=cobalt)
+<!-- ![Mulavar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mulavar&include_all_commits=true&count_private=true&theme=cobalt) -->
